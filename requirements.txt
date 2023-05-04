@@ -7,3 +7,4 @@ numpy==1.23.5
 DateTime==5.1
 joblib==1.2.0
 python-utils==3.5.2
+scikit-learn==1.2.2
